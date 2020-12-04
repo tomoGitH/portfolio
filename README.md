@@ -18,7 +18,13 @@ Windows/Mac
 
 ・ゲームのプレイ
 
-「Build.zip」を解凍 -> 「Build/Crazy Plant.exe」を実行
+【Windows】
+
+「Win.zip」を解凍 -> 「Win/Crazy Plant.exe」を実行
+
+【Mac】
+
+「Mac.app.zip」を解凍 -> 「Mac.app/Crazy Plant.exe」を実行
 
 # Controller
 
