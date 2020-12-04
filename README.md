@@ -17,9 +17,11 @@ Windowsのみ/Mac非対応
 # Usage
 
 ・ゲームのプレイ
+
 「実行データ.zip」を解凍 -> 「実行データ/Crazy Plant.exe」を実行
 
 # Scripts
 
 ・スクリプトを見る
+
 「ソースファイル.zip」を解凍
