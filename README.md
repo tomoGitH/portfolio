@@ -24,7 +24,7 @@ Windows/Mac
 
 【Mac】
 
-「Mac.app.zip」を解凍 -> 「Mac.app/Crazy Plant.exe」を実行
+「Mac.zip」を解凍 -> 「Mac.app」を実行
 
 # Controller
 
