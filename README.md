@@ -20,7 +20,7 @@ Mac非対応
 
 ・ゲームのプレイ
 
-「実行データ.zip」を解凍 -> 「実行データ/Crazy Plant.exe」を実行
+「Build.zip」を解凍 -> 「Build/Crazy Plant.exe」を実行
 
 # Controller
 
@@ -32,4 +32,4 @@ Windows対応ゲームコントローラーのみ
 
 ・スクリプトを見る
 
-「ソースファイル.zip」を解凍
+「Scripts.zip」を解凍
