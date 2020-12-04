@@ -12,9 +12,7 @@ https://youtu.be/uXd1moGgPj0
 
 # Requirement
 
-Windowsのみ
-
-Mac非対応
+Windows/Mac
 
 # Usage
 
@@ -24,9 +22,7 @@ Mac非対応
 
 # Controller
 
-Windows対応ゲームコントローラーのみ
-
-キーボード非対応
+ゲームコントローラー推奨
 
 # Scripts
 
