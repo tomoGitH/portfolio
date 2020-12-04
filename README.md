@@ -12,7 +12,7 @@ https://youtu.be/uXd1moGgPj0
 
 # Requirement
 
-Windows8以降推奨
+Windowsのみ/Mac非対応
 
 # Usage
 
