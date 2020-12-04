@@ -12,13 +12,11 @@ https://youtu.be/uXd1moGgPj0
 
 # Requirement
 
-Windows/Mac
+Windows
 
 # Usage
 
 ・ゲームのプレイ
-
-【Windows】
 
 「Win.zip」を解凍 -> 「Win/Crazy Plant.exe」を実行
 
